@@ -11,7 +11,7 @@ import math
 class EnhancedImageMeasurementApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("高级图片测量工具(李林龙增强版)")
+        self.root.title("高级图片测量工具(ganta_dg增强版)")
         self.root.geometry("1200x900")
         
         # 初始化变量
